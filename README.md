@@ -42,11 +42,11 @@ Designed with a low-cost and sustainable approach, MYOPET demonstrates that effe
 ### Images
 
 <p align="center">
-  <img src="images/front.jpg" width="1000"><br/>
+  <img src="images/front.JPG" width="1000"><br/>
 </p>
 
 <p align="center">
-  <img src="images/back.jpg" width="30%">
+  <img src="images/back.JPG" width="30%">
   <img src="images/side.jpg" width="30%">
   <img src="images/open.jpg" width="30%">
 </p>
